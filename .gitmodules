@@ -1,0 +1,3 @@
+[submodule "external/SpecUtils"]
+	path = external/SpecUtils
+	url = https://github.com/sandialabs/SpecUtils.git

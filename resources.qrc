@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+    </qresource>
+    <qresource prefix="/images">
+        <file>Mari.png</file>
+    </qresource>
+</RCC>
